@@ -34,6 +34,13 @@ Offrir une application simple et intuitive pour simuler une **commande avec aper
 | 📨 Confirmation de commande| Message de validation et information de livraison |
 | ❌ Annulation              | Possibilité de réinitialiser les choix ou quitter l'application |
 
+## 📸 Interface
+
+![Fenêtre Principale](<Capture d'écran 2025-04-19 204457.png>)
+![Espace de paiement](<Capture d'écran 2025-04-19 204522.png>)
+![Confirmation du client](<Capture d'écran 2025-04-19 204541.png>)
+![Notification de succès](<Capture d'écran 2025-04-19 204552.png>)
+
 ## 🏁 Lancement de l'application
 
 1. Compiler avec :
